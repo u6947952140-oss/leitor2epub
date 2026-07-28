@@ -1,0 +1,17 @@
+{
+  "name": "LinguaPages - Leitor ePub com Tradução",
+  "short_name": "LinguaPages",
+  "description": "Leitor de ePub com tradução instantânea para 7 idiomas",
+  "start_url": "/leitor2epub/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3335/3335595.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
